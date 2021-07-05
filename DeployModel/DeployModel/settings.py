@@ -25,7 +25,7 @@ SECRET_KEY = '(ct7f4!3m3t7z%8l+%5z3%i)trxgp0y59m7f6!c!a=a4*betes'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','https://vibproj.herokuapp.com/']
 
 
 # Application definition
